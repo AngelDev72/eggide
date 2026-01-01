@@ -1,4 +1,5 @@
 import flet as ft
+import flet as ft
 
 
 def main(page: ft.Page):
@@ -21,7 +22,7 @@ def main(page: ft.Page):
         padding=10,
         content=ft.Column(
             controls=[
-                ft.Text("📁 Projects", weight="bold"),
+                ftclear.Text("📁 Projects", weight="bold"),
                 ft.Text("main.py", size=12),
                 ft.Text("boot.py", size=12),
                 ft.Divider(),
