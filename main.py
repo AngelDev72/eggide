@@ -22,9 +22,10 @@ def main(page: ft.Page):
         padding=10,
         content=ft.Column(
             controls=[
-                ftclear.Text("📁 Projects", weight="bold"),
-                ft.Text("main.py", size=12),
+                Projects", weight="bold"),
                 ft.Text("boot.py", size=12),
+                ft.Text("boot.py", size=12),
+                ft.Text("main.py", size=12),
                 ft.Divider(),
                 ft.Text("🔌 Devices", weight="bold"),
                 ft.Text("ESP32 • USB", size=12),
