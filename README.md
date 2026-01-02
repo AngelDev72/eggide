@@ -1,11 +1,24 @@
 EGGIDE 🥚💻
 
+   
+
 **EGGIDE es un IDE multiplataforma, mobile‑first, diseñado para desarrolladores que crean sistemas embebidos directamente desde cualquier lugar.
 
 No es solo un editor de código: es una herramienta de desarrollo portátil pensada para makers, ingenieros y hackers de hardware que programan donde está el proyecto, no donde está el escritorio.
 
 
 ---
+
+❓ Why EGGIDE?
+
+Porque no siempre hay un escritorio cerca.
+
+📱 Mobile‑first de verdad: pensado desde el inicio para usarse cómodamente en un teléfono.
+
+🔧 Enfocado en hardware real: no simuladores, no demos; dispositivos conectados y funcionando.
+
+🧠 Un solo entorno: código, consola, dispositivos y control técnico en el mismo lugar.
+
 
 🎯 Visión
 
@@ -17,7 +30,7 @@ Administrar dispositivos físicos en tiempo real
 
 Integrar hardware, UI y lógica en un solo entorno
 
-Escalar desde proyectos simples hasta ecosistemas completos (Eggbian / Chick'Ntec)
+Escalar desde proyectos simples hasta sistemas complejos y proyectos de largo alcance
 
 
 EGGIDE nace para trabajar donde está el hardware: en la mesa, en el taller, en el campo o en el laboratorio improvisado.
@@ -153,7 +166,7 @@ Uso con una sola mano
 
 Desarrollo y pruebas en campo
 
-Ideal para makers y granjas
+Ideal para makers y desarrolladores en campo
 
 
 📲 EGGIDE Tablet
