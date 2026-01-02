@@ -91,6 +91,26 @@ Funciones avanzadas (roadmap)
 
 ---
 
+🔧 Para desarrolladores Arduino
+
+EGGIDE también está pensado para desarrolladores del ecosistema Arduino, especialmente aquellos que trabajan con ESP32 y hardware real.
+
+EGGIDE no busca reemplazar Arduino IDE, sino actuar como un companion IDE ideal para:
+
+📟 Monitor serial y logs en tiempo real
+
+🔍 Pruebas rápidas de sensores y periféricos
+
+🧪 Ajustes y experimentación en campo
+
+🔄 Interacción con dispositivos ya flasheados
+
+
+Esto permite usar EGGIDE junto a Arduino IDE, aportando velocidad y portabilidad donde una laptop no siempre es práctica.
+
+
+---
+
 🔌 Hardware soportado (actual y planificado)
 
 Microcontroladores
@@ -194,6 +214,26 @@ Sin perder compatibilidad con mobile
 > Todas las versiones comparten el mismo núcleo.
 
 
+
+
+---
+
+🌐 Lenguajes y expansión futura
+
+EGGIDE inicia con un fuerte enfoque en Python y MicroPython, pero está diseñado desde el inicio para crecer.
+
+Lenguajes y entornos considerados a futuro:
+
+Python / MicroPython (base)
+
+CircuitPython
+
+C / C++ (Arduino tooling indirecto)
+
+Otros lenguajes orientados a sistemas embebidos
+
+
+La meta es que EGGIDE se convierta en un entorno común donde desarrolladores de distintos lenguajes puedan trabajar con hardware sin fricción.
 
 
 ---
